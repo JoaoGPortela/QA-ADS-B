@@ -1,4 +1,4 @@
-from math_utils import add, subtract
+from math_utils import add, subtract, multiply
 
 
 def test_add():
